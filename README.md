@@ -1,1 +1,1 @@
-Asimple book library created using HTML,css and JavaScript
+A simple book library created using HTML,css and JavaScript
